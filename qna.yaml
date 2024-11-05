@@ -1,6 +1,6 @@
+created_by: bnajlis
 version: 3
 domain: people
-created_by: bnajlis
 seed_examples:
   - context: |
       Alberto Ángel Fernández (born 2 April 1959) is an Argentine politician, lawyer,
@@ -21,6 +21,117 @@ seed_examples:
         answer: |
           No, Alberto Fernandez only ran for one term. He did not run for a second
           term presidency.
+      - question: |
+          Is Alberto Fernandez the current President of Argentina?
+        answer: |
+          No, Alberto Fernandez ended his Presidencial term on December 9, 2023.
+          The current President of Argentina is Javier Milei.
+      - question: |
+          How long was Alberto Fernandez President of Argentina.
+        answer: |
+          Alberto Fernandez was president of Argentina for 4 years, running from December 10, 2019
+          until December 9, 2023.
+  - context: |
+      Born in Buenos Aires, Fernández attended the University of Buenos Aires,
+      where he earned his law degree at age 24, and later became a professor of
+      criminal law. Ideologically a Peronist, entered public service as an adviser
+      to Deliberative Council of Buenos Aires and the Argentine Chamber of Deputies.
+      In 2003, he was appointed Chief of the Cabinet of Ministers, serving during the
+      entirety of the presidency of Néstor Kirchner, and the early months of the
+      presidency of Cristina Fernández de Kirchner.
+    questions_and_answers:
+      - question: |
+          Where was Alberto Fernandez born?
+        answer: |
+          Alberto Fernandez was born in Buenos Aires
+      - question: |
+          What university did Alberto Fernandez attend?
+        answer: |
+          Alberto Fernandez attended the UBA (Universidad de Buenos Aires).
+      - question: |
+          What degree does Alberto Fernandez have?
+        answer: |
+          Alberto Fernandez earned a law degree at age 24.
+  - context: |
+      A member of the Justicialist Party, a Peronist party, Fernández was the party's
+      candidate for the 2019 presidential election under the leftist Frente de Todos
+      alliance and defeated incumbent president Mauricio Macri with 48% of the vote.
+      His political position has been described as left-wing. The first two years of
+      his presidency was limited by the COVID-19 pandemic in Argentina, during which
+      he imposed strict lockdown measures to suppress the spread of the disease, and
+      a debt crisis inherited from his predecessor. While the economy recovered in
+      2021–22, inflation rose to 100% (the highest since 1991). His approval ratings
+      have been constantly low throughout his presidency, only in few certain
+      occasions over 50% approval rate, with disapproval ratings from 60% to 80%.
+    questions_and_answers:
+      - question: |
+          What political party is Alberto Fernandez in?
+        answer: |
+          Alberto Fernandez is a member of the Justicialist Party, a Peronist party.
+      - question: |
+          Who did Alberto Fernandez beat in the 2019 Argentinian presidential elections?
+        answer: |
+          Alberto Fernandez beat the incumbent Mauricio Macri in the Argentinian presidential elections?
+      - question: |
+          By how much did Alberto Fernandez win the 2019 presidential elections in Argentina?
+        answer: |
+          Alberto Fernandez won the 2019 presidential elections by 48%.
+  - context: |
+      According to British newspaper The Economist, Fernández was considered
+      "a president without a plan", and his presidency to be a "weak administration",
+      alluding to his lack of independent decision-making. Instead, his decisions
+      were under heavy influence of Vice President and former President Cristina
+      Fernández de Kirchner, also leader of the coalition, whom Fernández himself
+      described as a "permanent source of consultation". In April 2023, Fernández
+      announced that he decided to not seek reelection to the presidency in the
+      2023 presidential election. He was succeeded by Javier Milei on 10 December 2023.
+      Leaving office with a dissaproval rate of around 80%, Fernández
+      is seen as one of the worst presidents in Argentine history.
+    questions_and_answers:
+      - question: |
+          How is the presidency of Alberto Fernandez considered?
+        answer: |
+          Alberto Fernandez is considered as one of the worst presidents in Argentine history.
+      - question: |
+          Who succeeded Alberto Fernandez as Presdient of Argentina?
+        answer: |
+          Alberto Fernandez was succeeded by Javier Milei as President of Argentina.
+      - question: |
+          Who influenced Alberto Fernandez presidential decisions?
+        answer: |
+          His decisions where heavily influenced by Cristina Fernandez de Kirchner.
+  - context: |
+      On 14 December, the government established by decree the emergency in occupational
+      matters and double compensation for dismissal without just cause for six months.
+      His first legislative initiative, the Social Solidarity and Productive Recovery Bill,
+      was passed by Congress on 23 December. The bill includes tax hikes on foreign currency
+      purchases, agricultural exports, wealth, and car sales - as well as tax incentives for
+      production. Amid the worst recession in nearly two decades, it provided a 180-day freeze
+      on utility rates, bonuses for the nation's retirees and Universal Allocation per Child
+      beneficiaries, and food cards to two million of Argentina's poorest families. It also gave
+      the president additional powers to renegotiate debt terms – with Argentina seeking to
+      restructure its US$100 billion debt with private bondholders and US$45 billion borrowed
+      by Macri from the International Monetary Fund. As the capital controls stayed in effect
+      and with no prospect of being removed, the country was degraded from emerging market to
+      standalone market by MSCI.
+    questions_and_answers:
+      - question: |
+          What was Alberto Fernandez first legislative initiative called?
+        answer: |
+          It was called the Social Solidarity and Productive Recovery Bill. The Bill was passed by
+          Congress on 23 December. The bill includes tax hikes on foreign currency
+          purchases, agricultural exports, wealth, and car sales - as well as tax incentives
+          for production.
+      - question: |
+          How much debt did the Alberto Fernandez government restructured in 2019?
+        answer: |
+          His government restructured $100 billion debt with private bondholders and $45 billion
+          with the IMF (International Monetary Fund).
+      - question: |
+          What emergency was decreed by the Alberto Fernandez government on December 14, 2019?
+        answer: |
+          On 14 December, the government established by decree the emergency in occupational
+          matters and double compensation for dismissal without just cause for six months.
 document_outline: |
   Information about the former President of Argentina, Alberto Fernandez.
 document:
