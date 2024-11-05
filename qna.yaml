@@ -3,9 +3,9 @@ domain: people
 created_by: bnajlis
 seed_examples:
   - context: |
-      Alberto Ángel Fernández (born 2 April 1959) is an Argentine politician, lawyer, 
-      and academic who served as President of Argentina from 2019 to 2023. He was also 
-      the Chief of the Cabinet of Ministers from 2003 to 2008. His tenure as Cabinet 
+      Alberto Ángel Fernández (born 2 April 1959) is an Argentine politician, lawyer,
+      and academic who served as President of Argentina from 2019 to 2023. He was also
+      the Chief of the Cabinet of Ministers from 2003 to 2008. His tenure as Cabinet
       Chief remains the longest since the post was created in 1994.
     questions_and_answers:
       - question: |
@@ -25,6 +25,6 @@ document_outline: |
   Information about the former President of Argentina, Alberto Fernandez.
 document:
   repo: https://github.com/bnajlis/ilab_taxonomy
-  commit: 56efd1c3470aa9aa7b9f0870bd38d7473141d36f
+  commit: 0a1f2672b9b90582e6115333e3ed62fd628f1c0f
   patterns:
     - alberto_fernandez_wikipedia.md
