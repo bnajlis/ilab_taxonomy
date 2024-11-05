@@ -136,6 +136,6 @@ document_outline: |
   Information about the former President of Argentina, Alberto Fernandez.
 document:
   repo: https://github.com/bnajlis/ilab_taxonomy
-  commit: f60a0ef8d05a76f9d5962a93529bb5d646159da0
+  commit: 7749c809f8805aa76cf8b286170e753a3971b1d3
   patterns:
     - alberto_fernandez_wikipedia.md
